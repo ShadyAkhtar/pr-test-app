@@ -7,8 +7,15 @@ build
 Client/node_modules
 server/node_modules
 server/uploads
-server/.env
-Client/.env
+
+
+# ------------------- Uncomment for production use ----------------
+# temperoray commented for reference
+
+# server/.env
+# Client/.env
+
+# ------------------------------------------------------------------
 
 /.pnp
 .pnp.js
